@@ -8,6 +8,7 @@ Sou um FullStack Developer :computer:
  <br/> :purple_heart: &nbsp; Estou aberto para colaborar em projetos que usam NodeJS no Backend ou no Front-end com ReactJS
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: VueJS, ReactJS, Node.js, AdonisJS & Typescript
+ <br/> :school: &nbsp; Estudando sobre: NextJS e GoLang 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL, Wow e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DiegoGoulart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-goulart/)](https://www.linkedin.com/in/diego-goulart/) 
 | 
