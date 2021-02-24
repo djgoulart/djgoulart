@@ -8,7 +8,7 @@ Adoro utilizar a programação para vencer desafios e melhorar o ambiente ao meu
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Abemus** e na **Verbasa**, empresas do ramo educacional/financeiro
- <br/> :purple_heart: &nbsp; Estou aberto para colaborar em projetos com AdonisJS e Express no Backend e com ReactJS e Vue no Front-end
+ <br/> :purple_heart: &nbsp; Estou aberto para colaborar em projetos que usam NodeJS no Backend ou no Front-end com ReactJS
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: VueJS, ReactJS, Node.js, AdonisJS & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL, Wow e seriados no Netflix
