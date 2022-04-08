@@ -1,15 +1,8 @@
 # Diego Goulart
 
-## Olá pessoal 👋
-Adoro utilizar a programação para vencer desafios e melhorar o ambiente ao meu redor e as vidas das pessoas.
-Sou um FullStack Developer :computer:
+## Hi! 👋
+I'm a Software Development Engineer, I'm 34 years old and passionate about technology, software development and its impact on society. I have experience using various technologies and languages recently worked on projects that use php (using Laravel) or NodeJs on the backend and ReactJS/NextJS on the frontend. :computer:
 
- :rocket:  &nbsp; Meus trabalhos mais recentes foram na **Abemus** e na **Verbasa**, empresas do ramo educacional/financeiro
- <br/> :purple_heart: &nbsp; Estou aberto para colaborar em projetos que usam NodeJS no Backend ou no Front-end com ReactJS
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: VueJS, ReactJS, Node.js, AdonisJS & Typescript
- <br/> :school: &nbsp; Estudando sobre: NextJS e GoLang 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Tycoon, LoL, Wow e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DiegoGoulart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-goulart/)](https://www.linkedin.com/in/diego-goulart/) 
+Get in touch with me! [![Linkedin Badge](https://img.shields.io/badge/-DiegoGoulart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-goulart/)](https://www.linkedin.com/in/diego-goulart/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-diegogoulart.aws@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegogoulart.aws@gmail.com)](mailto:tgmarinho@gmail.com)
